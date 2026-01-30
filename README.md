@@ -99,15 +99,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mouslim-laarabi&show_icons=true&theme=radical&locale=en" alt="mouslim-laarabi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moslimar&show_icons=true&theme=radical&locale=en" alt="mouslim-laarabi" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouslim-laarabi&theme=radical" alt="mouslim-laarabi" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moslimar&theme=radical" alt="Mouslim-Laarabi" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mouslim-laarabi&show_icons=true&theme=radical&locale=en&layout=compact" alt="mouslim-laarabi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moslimar&show_icons=true&theme=radical&locale=en&layout=compact" alt="Mouslim-Laarabi" />
 </p>
 
 ---
@@ -115,7 +115,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mouslim-laarabi&theme=radical&row=1&column=7" alt="mouslim-laarabi" />
+  <img src="https://github-profile-trophy.vercel.app/?username=moslimar&theme=radical&row=1&column=7" alt="mouslim-laarabi" />
 </p>
 
 ---
