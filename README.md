@@ -28,7 +28,7 @@
 - 💬 Ask me about **React, React Native, Spring Boot, and Cybersecurity**
 - 📫 Reach me at: **moslimlaarabi@gmail.com**
 - 📍 Based in **Fès, Morocco**
-- ⚡ Fun fact: I built a **facial recognition system** for attendance management and a **hydrogen generator reactor**
+- ⚡ Fun fact: **Not just for code: While primarily a platform for software development, people have used GitHub for unexpected things like sharing musical sheet music, collaborating on novels, tracking research papers, and even collecting recipes.**
 
 ---
 
@@ -94,31 +94,6 @@
   <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moslimar&show_icons=true&theme=radical&locale=en" alt="mouslim-laarabi" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moslimar&theme=radical" alt="Mouslim-Laarabi" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moslimar&show_icons=true&theme=radical&locale=en&layout=compact" alt="Mouslim-Laarabi" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moslimar&theme=radical&row=1&column=7" alt="mouslim-laarabi" />
-</p>
-
----
 
 ### 📜 Certifications
 
