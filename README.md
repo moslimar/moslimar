@@ -16,8 +16,7 @@
 
 <h2 align="center">My Portfolio </h2>
 <p align="center">
-  <a href="https://portfolio-pi-weld-huay0gdf4l.vercel.app">
-   </a>
+  <a href="https://portfolio-pi-weld-huay0gdf4l.vercel.app" target="_blank" rel="noreferrer">Visit my portfolio</a>
 </p>
 
 ---
