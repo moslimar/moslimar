@@ -16,8 +16,9 @@
 
 <h2 align="center">My Portfolio </h2>
 <p align="center">
-  <a href="https://portfolio-pi-weld-huay0gdf4l.vercel.app">
-   </a>
+  <a href="https://portfolio-pi-weld-huay0gdf4l.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
